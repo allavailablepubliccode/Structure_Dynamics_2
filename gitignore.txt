@@ -1,0 +1,28 @@
+macOS
+
+.DS_Store ._*
+
+Python
+
+pycache/ .py[cod] .pyo .venv/ venv/ env/ .pytest_cache/
+.ipynb_checkpoints/
+
+Generated analysis data and results
+
+data/derived/ data/generated/ results/ focal_figure_output/
+
+Local raw data
+
+raw/ data/raw/
+
+Local FreeSurfer files used for figure generation
+
+fsaverage_for_figure/
+
+Editors / IDEs
+
+.vscode/ .idea/
+
+Logs and temporary files
+
+.log .tmp
